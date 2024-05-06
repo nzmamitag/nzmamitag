@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Web Designing**
 
-- 👨‍💻 All of my projects are available at [ongoing](ongoing)
+- 👨‍💻 View my personal portfolio [https://neds-personal-portfolio.vercel.app/](https://neds-personal-portfolio.vercel.app/)
 
 - 📫 How to reach me **nzmamitag@gmail.com**
 
